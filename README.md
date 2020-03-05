@@ -1,6 +1,9 @@
 # Library-Management-System-Api-s-with-Oauth-2-security-protocol-using-java-spring-boot
-I've built this project to understand how oauth2/token authentication protocols works using Java's Spring boot framework.
+I've built this project to understand how oauth2/token authentication protocols works using Java's Spring boot framework.,I've also included JdbcTemplate inside of this project.
  here's an reference to my simple,mysql db->
+ 
+ 
+ 
  mysql> select * from book;
 +----+-------------------+------------+----------------+-------+
 | id | bookname          | booktype   | authorname     | price |
